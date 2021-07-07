@@ -24,6 +24,8 @@ Step 2. Add the dependency
 	}
   
 step 3.  use in your code
+
+
      setContentView(R.layout.activity_main);
     // configure the SlidingMenu
     SlidingMenu menu = new SlidingMenu(this);
